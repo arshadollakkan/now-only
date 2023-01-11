@@ -1,0 +1,100 @@
+body{
+    margin:0px;
+}
+
+
+
+ .main{
+    background:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) ,url("arshad.jpg"); 
+    height: 100vh;
+   
+     background-size: cover; 
+} 
+.main{
+    display: flex;
+    justify-content: center;
+}
+.left{
+    
+    margin-top: 150px;
+    margin-right: 250px;
+    padding: 0px 20px;
+    color: white;
+}
+.left p{
+    color: rgba(255, 255, 255, 0.589);
+}
+.right{
+    margin-top: 138px;
+    color: white;
+}
+.ali li{
+    display:inline
+    
+}
+.left h1{
+    font-size: 48px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.right h1{
+    font-size: 29px;
+    text-align: center;
+
+}
+#input1{
+    
+    width: 300px;
+    margin-bottom: 24px;
+    height: 23px;
+    border-radius: 3px;
+    border: 0px;
+    background-color: white;
+}
+.right label{
+    color: rgba(255, 255, 255, 0.425);
+}
+#input2{
+    width: 300px;
+    margin-bottom:20px ;
+    height: 23px;
+    border-radius: 3px;
+    border: 0px;
+    background-color: white;
+}
+.as{
+    margin-top: 23px;
+}
+.ali a{
+    margin: 0px;
+    padding: 0px;
+}
+.ali{
+    margin: 0px;
+}
+button{
+    border: 0px;
+    color: white;
+    background-color: red;
+    padding: 8px 9px;
+    border-radius: 3px;
+}
+#do a{
+    padding-left: 10px;
+    border-left: 2px sloid;
+    
+}
+#allo a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.445);
+
+}
+.ali a{
+ color:black;
+ margin-left: 2px;
+ padding-left: 6px;
+ 
+}
+
+#re{
+    color: rgba(255, 255, 255, 0.39);
+}
